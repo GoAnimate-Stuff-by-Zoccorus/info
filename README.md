@@ -33,7 +33,7 @@ This repository can also be used to get support, ask questions, and suggest thin
 
 * ### Support
   1. #### Please note that this can be disregarded at this point in time, as Wrapper: Online is currently not released.
-  2. ~~#### Support may include getting help with an error or issue or reporting bugs.~~
+  2. #### ~~Support may include getting help with an error or issue or reporting bugs.~~
         > ~~To get support, you can either [email us](mailto:wrapper.onlineofficial@gmail.com), or make an issue on the [issues page of this repository](https://github.com/wrapper-online/info/issues). To make a support issue, please start the issue subject with "Support - (brief description of thing you need help with)", in the desciption of the issue, explain the problem in full detail so the developers can help the best they can.~~
 
 * ### Questions
